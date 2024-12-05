@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazerMarka", "LazerMarka.csproj", "{1849767D-05D5-4A4C-87F9-279F7B17F348}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LazerMarkalama", "..\LazerMarkalama\LazerMarkalama.vdproj", "{0B09CBDE-AA13-4290-990E-1EB00D4EA649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1849767D-05D5-4A4C-87F9-279F7B17F348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1849767D-05D5-4A4C-87F9-279F7B17F348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1849767D-05D5-4A4C-87F9-279F7B17F348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1849767D-05D5-4A4C-87F9-279F7B17F348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B09CBDE-AA13-4290-990E-1EB00D4EA649}.Debug|Any CPU.ActiveCfg = Debug
+		{0B09CBDE-AA13-4290-990E-1EB00D4EA649}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B09E0EE-0FA0-4071-9545-C4B5698B8B3B}
+	EndGlobalSection
+EndGlobal
